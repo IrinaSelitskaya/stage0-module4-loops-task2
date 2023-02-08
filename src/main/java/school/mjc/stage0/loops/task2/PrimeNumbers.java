@@ -2,7 +2,6 @@ package school.mjc.stage0.loops.task2;
 
 public class PrimeNumbers {
     public void printPrimeNumbers(int printToInclusive) {
-     printToInclusive=12;
      int counter=2;
      int divisor=2;
      int divisorsSum=0;
